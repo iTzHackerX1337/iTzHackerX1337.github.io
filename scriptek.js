@@ -43,7 +43,7 @@ setInterval(() => {
 
     if(tavFinal < 0) {
         clearInterval();
-        window.location.href = "https://www.twitch.tv/kriszhadvice";
+        window.location.href = "https://www.youtube.com/@theninyagamer1337";
     } /*else if(tav < 0) {
         clearInterval();
         window.location.href = "https://www.youtube.com/playlist?list=PLK15uKRMQy-2SMM_sQlwSbFIL_QvDxpSE";
